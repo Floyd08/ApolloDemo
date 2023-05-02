@@ -1,0 +1,29 @@
+{
+  "airfields": [
+    {
+      "name": "Asch",
+      "airplanes": [
+        "P-51",
+        "P-38"
+      ]
+    },
+    {
+      "name": "Aachen",
+      "airplanes": [
+        "P-51",
+        "P-47"
+      ]
+    }
+  ],
+  "objectives": [
+    {
+      "name": "Munchen Munitions depot"
+    },
+    {
+      "name": "Dortmund Airfield"
+    },
+    {
+      "name": "Duisberg Marshalling Yard"
+    }
+  ]
+}
